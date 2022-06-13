@@ -211,9 +211,9 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "redirect",
+          "name": live",
           "urls": [
-            "网上自己找"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NhbmphaW40MDQvTVRWL2NhbmphaW40MDQtcGF0Y2gtMS9saXZlLnR4dA=="
           ]
         }
       ]
